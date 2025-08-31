@@ -1,24 +1,17 @@
-# Hi there <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30">, I
-'
-m JULQARNAEEN AHMED JIHAD
+<p align=""center"">
+  <h1 align=""center"">Hi there <img src=""https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"" width=""30""></h1>
+  <h3 align=""center"">I'm Julqarnaeen Ahmed Jihad</h3>
+</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=102536&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20" width="100%" alt="JULQARNAEEN AHMED JIHAD - SOFTWARE DEVELOPER">
+<p align=""center"">
+  <img src=""https://capsule-render.vercel.app/api?type=waving&color=0a1a29&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20"" width=""100%"" alt=""JULQARNAEEN AHMED JIHAD - SOFTWARE DEVELOPER"">
 </p>
 
 ## About Me
-- 🔭 I
-'
-m currently working on ...
-- 🌱 I
-'
-m currently learning ...
-- 👯 I
-'
-m looking to collaborate on ...
-- 🤔 I
-'
-m looking for help with ...
+- 🔭 I'm currently working on ...
+- �� I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -33,13 +26,5 @@ m looking for help with ...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julqarnaeen&show_icons=true&theme=radical)
 
 ## Connect with me
-[<img src=
-'
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-'
- />](https://linkedin.com/in/your-profile)
-[<img src=
-'
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-'
- />](https://github.com/julqarnaeen)
+[<img src=""https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"" />](https://linkedin.com/in/your-profile)
+[<img src=""https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"" />](https://github.com/julqarnaeen)
