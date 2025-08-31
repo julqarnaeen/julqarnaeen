@@ -1,6 +1,6 @@
 # Hi there 👋, I'm JULQARNAEEN AHMED JIHAD
-# **SOFTWARE DEVELOPER - JULQARNAEEN AHMED JIHAD** 
-![Header]([https://capsule-render.vercel.app/api?type=waving&color=050c13&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20](https://capsule-render.vercel.app/api?type=waving&color=050c13&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20))
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=050c13&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20��️&descAlign=center&descSize=20)
 
 ## About Me
 - 🔭 I'm currently working on ...
@@ -21,5 +21,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julqarnaeen&show_icons=true&theme=radical)
 
 ## Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/julqarnaeen)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://linkedin.com/in/your-profile)
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />](https://github.com/julqarnaeen)
