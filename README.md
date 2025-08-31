@@ -1,7 +1,7 @@
 # Hi there 👋, I'm JULQARNAEEN AHMED JIHAD
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=152c40&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20" width="100%" alt="JULQARNAEEN AHMED JIHAD - SOFTWARE DEVELOPER">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=102536&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20" width="100%" alt="JULQARNAEEN AHMED JIHAD - SOFTWARE DEVELOPER">
 </p>
 
 ## About Me
