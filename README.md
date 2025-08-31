@@ -30,8 +30,8 @@
 ## 🌐 Social Recon
 <div align="center">
 <a href="https://x.com/julqarnaeen9?s=09"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="60"/></a>
-<a href="#"><img src="./fb live icon/icons8-facebook.gif" width="60"/></a>
-<a href="#"><img src="./insta live icon/icons8-instagram.gif" width="60"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/julqarnaeen/julqarnaeen/main/fb%20live%20icon/icons8-facebook.gif" width="60"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/julqarnaeen/julqarnaeen/main/insta%20live%20icon/icons8-instagram.gif" width="60"/></a>
 </div>
 
 ---
