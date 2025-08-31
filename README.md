@@ -55,7 +55,7 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 
 
 ## <img src="https://github.com/julqarnaeen/LogosANDGifs/blob/main/barrrrr.gif?raw=true" width="40"/> GITHUB STATS
-<p href="#"  sr> <img align="right"src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 420px;" /></p>
+<p href="#"  sr> <img align="right"src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 400px;" /></p>
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=julqarnaeen&theme=radical&show_icons=true&hide_border=true&count_private=true" width="50%"/>
@@ -69,7 +69,6 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 <img src="https://github-profile-trophy.vercel.app?username=julqarnaeen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
 
 </div>
-
 <br clear="both">
 
 
