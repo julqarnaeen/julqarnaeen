@@ -2,31 +2,40 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30">
 # **I'm Julqarnaeen Ahmed Jihad** 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="50px" />
-
-<img src="https://camo.githubusercontent.com/f113a336f13adb4f9ebd5dbb0b8a14f7fecfbe6811f35d1ad5dd93cce1fda2bc/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d306131613239266865696768743d3330302673656374696f6e3d68656164657226746578743d4a554c5141524e4145454e25323041484d45442532304a4948414426666f6e7453697a653d353026666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d333526646573633df09f96a5efb88f253230534f465457415245253230444556454c4f504552253230f09f96a5efb88f2664657363416c69676e3d63656e746572266465736353697a653d3230"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=152c40&height=300&section=header&text=JULQARNAEEN%20AHMED%20JIHAD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SOFTWARE%20DEVELOPER%20🖥️&descAlign=center&descSize=20"/>
 
 </div>
 
 ---
 
+## 🛠️ KEY SKILLS
+<div align="center">
 
-## About Me
-- 🔭 I am currently working on ...
-- 🌱 I am currently learning ...
-- 👯 I am looking to collaborate on ...
-- 🤔 I am looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css&theme=dark" height="50" />
 
-## Skills
-- Programming Languages: 
-- Frameworks & Libraries: 
-- Tools & Technologies: 
+</div>
+
+---
+
+## ⚙️ Environments
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50"/>
+
+</div>
+
+---
+
+## 🌐 Social Recon
+<div align="center">
+<a href="https://x.com/julqarnaeen9?s=09"><img src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" width="60"/></a>
+<a href="https://www.instagram.com/zulqarnaeen.9"><img src="https://user-images.githubusercontent.com/74038190/241765923-4a35d14f-9b49-4e94-9f6f-5a5b31e379f2.gif" width="60"/></a>
+<a href="https://www.facebook.com/julqarnaeen.9/"><img src="https://user-images.githubusercontent.com/74038190/241765765-6a6807a4-41ce-4c3e-b5e5-dcba78c3259e.gif" width="60"/></a>
+</div>
+
+---
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julqarnaeen&show_icons=true&theme=radical)
