@@ -27,6 +27,14 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 
 </div>
 
+##
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=dark" height="50" />
+
+</div>
+
 ---
 
 ## ⚙️ ENVIRONMENTS
@@ -34,6 +42,8 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" />
+    
 
 </div>
 
