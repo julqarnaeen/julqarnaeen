@@ -79,6 +79,11 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 <img src="https://github-profile-trophy.vercel.app?username=julqarnaeen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
 </div>
 
+## 🐍 CONTRIBUTION SNAKE
+<div align="center">
+<img src="https://raw.githubusercontent.com/julqarnaeen/julqarnaeen/output/github-snake.svg" alt="Snake animation" />
+</div>
+
 ##
 
 

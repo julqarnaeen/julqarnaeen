@@ -29,11 +29,10 @@ on:
 
 
 jobs:
-
   generate:
-
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
 
 
