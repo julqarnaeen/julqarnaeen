@@ -69,7 +69,7 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 <div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=julqarnaeen&theme=radical&show_icons=true&hide_border=true&count_private=true" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=julqarnaeen&theme=radical&hide_border=true" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julqarnaeen&theme=radical&layout=compact&hide_border=true" width="50%"/>
 
 </div>
 
