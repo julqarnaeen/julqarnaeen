@@ -49,7 +49,7 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 
 ---
 
-## 🌐 CONNECT W/ ME
+## 🔗 CONNECT W/ ME
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/></a>
 <a href="#" ><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"/></a>
@@ -64,7 +64,7 @@ Hello! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9
 
 
 
-## <img src="https://github.com/julqarnaeen/LogosANDGifs/blob/main/barrrrr.gif?raw=true" width="40"/> GITHUB STATS
+## 👑 GITHUB STATS
 <p href="#"  sr> <img align="right"src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="width: 350px;" /></p>
 <div align="left">
 
