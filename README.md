@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30">
 # **I'm Julqarnaeen Ahmed Jihad** <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=152c40&height=300&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=🖥️%20Meta%20Web%20Application%20Developer%20🖥️&descAlign=center&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=152c40&height=300&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=🖥️%20Meta%20Full%20Stack%20Web%20Application%20Developer%20🖥️&descAlign=center&descSize=20"/>
 
 </div>
 
