@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<strong > <h1 style="border-bottom: 0; margin-bottom: 0;">Julqarneen Ahmed Jihad</h1></strong>
+<strong > <h1>Julqarneen Ahmed Jihad</h1></strong>
 <strong><h3 style="margin-top: 0;"> Full Stack Website & Software Developer | Generative AI Specialist </h3> </strong>
 
 **Welcome to my digital workspace!** <br>
