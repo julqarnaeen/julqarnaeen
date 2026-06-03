@@ -28,19 +28,21 @@ I build complete, scalable, and high-performance web applications, covering ever
     </td>
     <td>
       <div align="center">
-        <a href="" style="display: inline-block; background: #ffffff; color: #1d4ed8; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 5px 6px; text-decoration: none; font-weight: 700;">Meta Full Stack Developer: Front-End & Back-End from Scratch Specialization</a><br>
+        <a href="">
+          <img src="https://img.shields.io/badge/-Meta%20Full%20Stack%20Developer%3A%20Front--End%20%26%20Back--End%20from%20Scratch%20Specialization-1d4ed8?style=for-the-badge" alt="Meta Full Stack Developer Specialization" />
+        </a><br>
       </div>
       <div align="center">
-        <a href="https://coursera.org/share/952191e4ea4a32e124050135ab26850f" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Introduction to Front-End Development</a>
-        <a href="https://coursera.org/share/9d45c7734c5bffcadcdedcd9db9d7516" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Programming with JavaScript</a>
-        <a href="https://coursera.org/share/e5693e809926e04fbfba86e50e7f4375" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Version Control</a>
-        <a href="https://coursera.org/share/f6e809e27f447675642112c0502af45d" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">HTML and CSS in depth</a>
-        <a href="https://coursera.org/share/070c8a8e0f2837a47bdf01dc05d08be5" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">React Basics</a>
-        <a href="https://coursera.org/share/84e7be034a38790c0d11536f8e4be2b2" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Advanced React</a>
-        <a href="https://coursera.org/share/010441a0a6fd168a7d31277add676633" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Programming in Python</a>
-        <a href="https://coursera.org/share/15c3c59e276288c0a1db5250e7c1115d" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Introduction to Databases for Back-End Development</a>
-        <a href="https://coursera.org/share/ee9ec17f45f8a4e36a8495f465a67595" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">Django Web Framework</a>
-        <a href="YOUR_COURSERA_LINK_HERE" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">APIs</a>
+        <a href="https://coursera.org/share/952191e4ea4a32e124050135ab26850f"><img src="https://img.shields.io/badge/-Introduction%20to%20Front--End%20Development-111111?style=flat" alt="Introduction to Front-End Development" /></a>
+        <a href="https://coursera.org/share/9d45c7734c5bffcadcdedcd9db9d7516"><img src="https://img.shields.io/badge/-Programming%20with%20JavaScript-111111?style=flat" alt="Programming with JavaScript" /></a>
+        <a href="https://coursera.org/share/e5693e809926e04fbfba86e50e7f4375"><img src="https://img.shields.io/badge/-Version%20Control-111111?style=flat" alt="Version Control" /></a>
+        <a href="https://coursera.org/share/f6e809e27f447675642112c0502af45d"><img src="https://img.shields.io/badge/-HTML%20and%20CSS%20in%20depth-111111?style=flat" alt="HTML and CSS in depth" /></a>
+        <a href="https://coursera.org/share/070c8a8e0f2837a47bdf01dc05d08be5"><img src="https://img.shields.io/badge/-React%20Basics-111111?style=flat" alt="React Basics" /></a>
+        <a href="https://coursera.org/share/84e7be034a38790c0d11536f8e4be2b2"><img src="https://img.shields.io/badge/-Advanced%20React-111111?style=flat" alt="Advanced React" /></a>
+        <a href="https://coursera.org/share/010441a0a6fd168a7d31277add676633"><img src="https://img.shields.io/badge/-Programming%20in%20Python-111111?style=flat" alt="Programming in Python" /></a>
+        <a href="https://coursera.org/share/15c3c59e276288c0a1db5250e7c1115d"><img src="https://img.shields.io/badge/-Introduction%20to%20Databases%20for%20Back--End%20Development-111111?style=flat" alt="Introduction to Databases for Back-End Development" /></a>
+        <a href="https://coursera.org/share/ee9ec17f45f8a4e36a8495f465a67595"><img src="https://img.shields.io/badge/-Django%20Web%20Framework-111111?style=flat" alt="Django Web Framework" /></a>
+        <a href="YOUR_COURSERA_LINK_HERE"><img src="https://img.shields.io/badge/-APIs-111111?style=flat" alt="APIs" /></a>
       </div>
     </td>
   </tr>
@@ -50,12 +52,14 @@ I build complete, scalable, and high-performance web applications, covering ever
     </td>
     <td>
       <div align="center">
-        <a href="" style="display: inline-block; background: #ffffff; color: #e4c511; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 5px 6px; text-decoration: none; font-weight: 700;">DevOps and AI on AWS Specialization</a><br>
+        <a href="">
+          <img src="https://img.shields.io/badge/-DevOps%20and%20AI%20on%20AWS%20Specialization-ff9900?style=for-the-badge" alt="DevOps and AI on AWS Specialization" />
+        </a><br>
       </div>
       <div align="center">
-        <a href="#" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;"> Upgrading Apps with Generative AI </a>
-        <a href="#" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">CI/CD for Generative AI Applications</a>
-        <a href="#" style="display: inline-block; background: #ffffff; color: #111111; border: 1px solid #cfe3ff; padding: 2px 3px; border-radius: 3px; margin: 2px 4px; text-decoration: none; font-weight: 600;">AIOps</a>
+        <a href="#"><img src="https://img.shields.io/badge/-Upgrading%20Apps%20with%20Generative%20AI-111111?style=flat" alt="Upgrading Apps with Generative AI" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/-CI%2FCD%20for%20Generative%20AI%20Applications-111111?style=flat" alt="CI/CD for Generative AI Applications" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/-AIOps-111111?style=flat" alt="AIOps" /></a>
       </div>
     </td>
   </tr>
