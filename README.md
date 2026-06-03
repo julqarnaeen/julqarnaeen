@@ -121,18 +121,6 @@ I build complete, scalable, and high-performance web applications, covering ever
 </div>
 
 ---
-
-
-
-## GITHUB STATS
-
-<div align= center>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=julqarnaeen&theme=dark&background=000000&cache_seconds=86400)](https://git.io/streak-stats)
-
-</div>
-
----
 ## CONTRIBUTION
 <div align= center>
 
