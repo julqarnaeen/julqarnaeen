@@ -10,7 +10,7 @@
 **Welcome to my digital workspace!** <br>
 Hi! I'm a **Computer Science student at Green University of Bangladesh**. <br>
 I'm a professional **Full Stack Website & Software Developer** with a strong foundation in Computer Science. <br>
-I build complete, scalable, and high-performance web applications, covering everything from **backend databasesand server-side logic** to clean, responsive **frontend user interfaces**. 
+I build complete, scalable, and high-performance web applications, covering everything from **backend databases and server-side logic** to clean, responsive **frontend user interfaces**. 
 >  <i> I am a specialist in the modern AI stack, with profound expertise in Generative AI, Deep Learning, and Machine Learning.</i> 
 
 </div>
