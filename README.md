@@ -17,7 +17,7 @@ I build complete, scalable, and high-performance web applications, covering ever
 
 ---
 
-### Certifications
+## CERTIFICATIONS
 
 ---
 
@@ -109,7 +109,8 @@ I build complete, scalable, and high-performance web applications, covering ever
 
 ---
 
-##  CONNECT
+## CONNECT
+
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/></a>
 <a href="https://www.facebook.com/julqarnaeen9" ><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60"/></a>
