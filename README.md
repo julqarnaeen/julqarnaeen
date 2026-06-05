@@ -1,8 +1,5 @@
-
-
----
 <div align="center">
-
+  
 # Julqarneen Ahmed Jihad
 
 <h3> Full Stack Website & Software Developer | Generative AI Specialist </h3> 
@@ -18,8 +15,6 @@ I build complete, scalable, and high-performance web applications, covering ever
 ---
 
 ## CERTIFICATIONS
-
----
 
 <table >
   <tr>
@@ -67,7 +62,6 @@ I build complete, scalable, and high-performance web applications, covering ever
 
 ---
 
-
 ## LANGUAGES
 
 <div align="center">
@@ -109,7 +103,7 @@ I build complete, scalable, and high-performance web applications, covering ever
 
 ---
 
-## CONNECT
+## CONNECT 
 
 <div align="center">
 <a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60"/></a>
