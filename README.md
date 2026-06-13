@@ -23,7 +23,7 @@ I build complete, scalable, and high-performance web applications, covering ever
     </td>
     <td>
       <div align="center">
-        <a href="">
+        <a href="https://coursera.org/share/173371832f3fcb5d7120d511a2dc8e96">
           <img src="https://img.shields.io/badge/-Meta%20Full%20Stack%20Developer%3A%20Front--End%20%26%20Back--End%20from%20Scratch%20Specialization-1d4ed8?style=for-the-badge" alt="Meta Full Stack Developer Specialization" />
         </a><br>
       </div>
@@ -37,7 +37,7 @@ I build complete, scalable, and high-performance web applications, covering ever
         <a href="https://coursera.org/share/010441a0a6fd168a7d31277add676633"><img src="https://img.shields.io/badge/-Programming%20in%20Python-111111?style=flat" alt="Programming in Python" /></a>
         <a href="https://coursera.org/share/15c3c59e276288c0a1db5250e7c1115d"><img src="https://img.shields.io/badge/-Introduction%20to%20Databases%20for%20Back--End%20Development-111111?style=flat" alt="Introduction to Databases for Back-End Development" /></a>
         <a href="https://coursera.org/share/ee9ec17f45f8a4e36a8495f465a67595"><img src="https://img.shields.io/badge/-Django%20Web%20Framework-111111?style=flat" alt="Django Web Framework" /></a>
-        <a href="YOUR_COURSERA_LINK_HERE"><img src="https://img.shields.io/badge/-APIs-111111?style=flat" alt="APIs" /></a>
+        <a href="https://coursera.org/share/fe92fa4492283b639cb0ead29f7db53e"><img src="https://img.shields.io/badge/-APIs-111111?style=flat" alt="APIs" /></a>
       </div>
     </td>
   </tr>
