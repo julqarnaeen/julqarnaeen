@@ -23,7 +23,7 @@ I build complete, scalable, and high-performance web applications, covering ever
     </td>
     <td>
       <div align="center">
-        <a href="https://coursera.org/share/173371832f3fcb5d7120d511a2dc8e96">
+        <a href="https://coursera.org/share/173371832f3fcb5d7120d511a2dc8e96" target="_blank">
           <img src="https://img.shields.io/badge/-Meta%20Full%20Stack%20Developer%3A%20Front--End%20%26%20Back--End%20from%20Scratch%20Specialization-1d4ed8?style=for-the-badge" alt="Meta Full Stack Developer Specialization" />
         </a><br>
       </div>
