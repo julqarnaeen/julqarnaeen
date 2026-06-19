@@ -52,7 +52,7 @@ I build complete, scalable, and high-performance web applications, covering ever
         </a><br>
       </div>
       <div align="center">
-        <a href="#"><img src="https://img.shields.io/badge/-Upgrading%20Apps%20with%20Generative%20AI-111111?style=flat" alt="Upgrading Apps with Generative AI" /></a>
+        <a href="https://coursera.org/share/6213dbc2679d0ac65c2c08218ecc57f3"><img src="https://img.shields.io/badge/-Upgrading%20Apps%20with%20Generative%20AI-111111?style=flat" alt="Upgrading Apps with Generative AI" /></a>
         <a href="#"><img src="https://img.shields.io/badge/-CI%2FCD%20for%20Generative%20AI%20Applications-111111?style=flat" alt="CI/CD for Generative AI Applications" /></a>
         <a href="#"><img src="https://img.shields.io/badge/-AIOps-111111?style=flat" alt="AIOps" /></a>
       </div>
