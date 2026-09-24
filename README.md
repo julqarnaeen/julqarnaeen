@@ -47,14 +47,14 @@ I build complete, scalable, and high-performance web applications, covering ever
     </td>
     <td>
       <div align="center">
-        <a href="">
+        <a href="https://www.coursera.org/account/accomplishments/specialization/IJG2M2ADFII5">
           <img src="https://img.shields.io/badge/-DevOps%20and%20AI%20on%20AWS%20Specialization-ff9900?style=for-the-badge" alt="DevOps and AI on AWS Specialization" />
         </a><br>
       </div>
       <div align="center">
         <a href="https://coursera.org/share/6213dbc2679d0ac65c2c08218ecc57f3"><img src="https://img.shields.io/badge/-Upgrading%20Apps%20with%20Generative%20AI-111111?style=flat" alt="Upgrading Apps with Generative AI" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/-CI%2FCD%20for%20Generative%20AI%20Applications-111111?style=flat" alt="CI/CD for Generative AI Applications" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/-AIOps-111111?style=flat" alt="AIOps" /></a>
+        <a href="https://www.coursera.org/account/accomplishments/verify/CQLXA5NFP9NI"><img src="https://img.shields.io/badge/-CI%2FCD%20for%20Generative%20AI%20Applications-111111?style=flat" alt="CI/CD for Generative AI Applications" /></a>
+        <a href="https://www.coursera.org/account/accomplishments/verify/H0KFAHHLJTHY"><img src="https://img.shields.io/badge/-AIOps-111111?style=flat" alt="AIOps" /></a>
       </div>
     </td>
   </tr>
