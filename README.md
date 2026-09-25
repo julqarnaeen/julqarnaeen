@@ -2,7 +2,7 @@
   
 # Julqarneen Ahmed Jihad
 
-<h3> Full Stack Website & Software Developer | Generative AI Specialist </h3> 
+<h3> Meta Full Stack Web Application Developer | Generative AI Specialist </h3> 
 
 **Welcome to my digital workspace!** <br>
 Hi! I'm a **Computer Science student at Green University of Bangladesh**. <br>
